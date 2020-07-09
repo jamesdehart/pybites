@@ -1,5 +1,5 @@
 from datetime import datetime, timedelta
-from pybites.pybite7 import loglines, convert_to_datetime, time_between_shutdowns
+from pybites.pybite_7 import loglines, convert_to_datetime, time_between_shutdowns
 
 
 def test_convert_to_datetime():
